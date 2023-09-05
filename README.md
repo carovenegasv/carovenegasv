@@ -8,7 +8,7 @@
 - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/carolina-venegas-vargas-8637b3220/)
 - ⚡ Fun fact: I'm a animal lover anda bookworm.
 
-## Some technologies I use:
+## 🎯Some technologies I use:
 
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
